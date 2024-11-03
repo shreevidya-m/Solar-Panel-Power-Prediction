@@ -4,7 +4,7 @@ The Enhanced Solar Panel Power Prediction project leverages advanced machine lea
 ## Project Overview
 The **Solar Panel Power Prediction** project aims to forecast solar power output using historical generation and weather data. By analyzing the influence of weather and operational variables, the project provides insights that help optimize solar panel performance, enhancing energy yield predictability and resource planning.
 
-##📌Key Features
+## 📌Key Features
 - **Data Analysis and Preprocessing**: Cleans and prepares data from two solar power plants.
 - **Predictive Modeling**: Utilizes machine learning algorithms to forecast power generation.
 - **Evaluation Metrics**: Provides model accuracy assessments to ensure reliable predictions.
